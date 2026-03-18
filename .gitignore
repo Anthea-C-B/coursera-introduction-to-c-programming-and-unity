@@ -53,3 +53,15 @@ dkms.conf
 
 # debug information files
 *.dwo
+ModOne/.vs/.*
+/ModOne/Exercise6/obj
+/ModOne/Exercise3/obj/Debug
+/ModOne/Exercise3/obj
+/ModOne/Exercise4/bin/Debug/net10.0
+/ModOne/Exercise4/obj/Debug
+/ModOne/Exercise1/obj
+/ModOne/.vs
+/ModOne/obj/Debug
+/ModOne/obj
+ModOne/ModOne.slnx
+/ModOne/Exercise4/obj
